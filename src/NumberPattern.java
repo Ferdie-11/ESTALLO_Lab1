@@ -50,7 +50,7 @@ public class NumberPattern {
 
 	        // Print the bottom asterisk
 	        System.out.println("*");
-			System.out.println("*");
+		
 	    }
 	}
 
