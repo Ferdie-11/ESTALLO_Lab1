@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;//class built in package to handle input from user
 
 public class NumberPattern {
 	    public static void main(String[] args) {
