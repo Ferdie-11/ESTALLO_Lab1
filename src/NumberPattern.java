@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;//built in package providing by java to handle input coming from user
 
 public class NumberPattern {
 	    public static void main(String[] args) {
@@ -50,6 +50,7 @@ public class NumberPattern {
 
 	        // Print the bottom asterisk
 	        System.out.println("*");
+			System.out.println("*");
 	    }
 	}
 
