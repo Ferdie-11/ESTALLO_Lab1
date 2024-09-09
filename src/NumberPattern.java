@@ -6,7 +6,7 @@ public class NumberPattern {
 	          System.out.print("Enter a number: ");
 	          int n = scanner.nextInt(); // Maximum number for the middle row
 
-			//comment
+			
 	        // Print the top asterisk
 	        System.out.println("*");
 
